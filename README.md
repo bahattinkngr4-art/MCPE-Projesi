@@ -11,4 +11,4 @@ Bu proje, Android cihazlar için geliştirilmiş ücretsiz ve açık kaynaklı b
 * **Uyarı:** Cihazınızda "Bilinmeyen Yapımcı" uyarısı çıkması, uygulamanın henüz resmi bir mağaza sertifikasıyla imzalanmamış olmasından kaynaklanmaktadır. Kodlar tamamen açık ve güvenlidir.
 
 ### 🛠️ Geliştirici
-* **Yapımcı:** atatxrk
+* **Yapımcı:** Bahattin
